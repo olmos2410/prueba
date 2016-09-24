@@ -1,2 +1,4 @@
 esta es una prueba para usar mi repositorio
 
+
+par bajar del repositorio es con pull y nush es para subir
